@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel, and i love to automate stuff;
 - 👀 I’m interested in FOSS, AI, Web dev and pretty much anything that lowers work;
 - 🌱 I’m currently learning engineering;
-- 💞️ I’m looking to collaborate and contribute;
+- 💞️ I’m looking to collaborate and explore new tech;
 
 <!---
 talon414/talon414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
