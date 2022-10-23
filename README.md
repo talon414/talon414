@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Emmanuel, and i love to automate things;
-- 👀 I’m interested in FOSS, AI, pretty much anything that lowers work;
+- 👋 Hi, I’m Emmanuel, and i love to automate stuff;
+- 👀 I’m interested in FOSS, AI, Web dev and pretty much anything that lowers work;
 - 🌱 I’m currently learning engineering;
 - 💞️ I’m looking to collaborate and contribute;
 
